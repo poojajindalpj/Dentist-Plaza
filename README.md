@@ -3,7 +3,7 @@
 Welcome to Dental Plaza, we strive to bring you quality of care that is like no other dental experience you have had. Our cosmetic dentist, and staff are comforting, genuine, and completely devoted to your well being and comfort. We understand that the dental chair can bring a lot of anxiety to some patients, but with our gentle dentist, amazing staff, state of the art facilities, and breathtaking views of city, you can leave all your fears at the door.
 If you just changed your smile and nothing else, you would find a dramatic transformation in your personality, grace, confidence, appearance and social presence.
 
-So, talking about the project, The technologies used for this project are HTML, CSS, JS, MYSQL and PHP. Firstly, it consists of HTML and PHP file named "index.php". These all were styled using CSS where for functionality we used JavaScript. The main functionality we added using JS were Home Button, About Button, Our Services Button, and Contact Us button.  Front-end part was done by HTML, CSS and JS. MYSQL used as a database and PHP used for the back-end part. 
+So, talking about the project, The technologies used for this project are HTML, CSS, JS, MYSQL and PHP. Firstly, it consists of HTML and PHP file named "index.php". These all were styled using CSS where for functionality we used JavaScript. The main functionality we added using JS were Home Button, About Button, Our Services Button, and Contact Us button.  Front-end part was done by HTML, CSS and JS. MYSQL used as a database and PHP used for the back-end part. The main feature is added to this project is that we can make online appointments according to our time and date. 
 
 
 
